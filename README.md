@@ -1,4 +1,4 @@
-serverinfo
+ServerInfo
 ==========
 
-A plug-in for a Minecraft Bukkit server.
+Save server info to a text file for inclusion in a website.
