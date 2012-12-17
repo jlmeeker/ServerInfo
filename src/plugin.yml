@@ -1,0 +1,5 @@
+main: org.meekers.plugins.serverinfo.ServerInfo
+name: ServerInfo
+version: 1.0
+author: Jared Meeker
+description: Dumps various information about the server to a file.
