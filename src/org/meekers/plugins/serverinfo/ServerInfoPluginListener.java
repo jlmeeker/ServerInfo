@@ -19,7 +19,6 @@ import org.bukkit.plugin.PluginManager;
 class ServerInfoPluginListener implements Listener {
 
     public ServerInfoPluginListener(ServerInfo plugin) {
-        plugin.getServer().getPluginManager().registerEvents(this, plugin);
         this.getServerStats("");
     }
     
